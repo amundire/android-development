@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Library</string>
+    <string name="image_story">image story</string>
+    <string name="today_10_32_pm">TODAY, 10:32 PM</string>
+    <string name="francisco_watson">FRANCISCO WATSON</string>
+    <string name="avatar">avatar</string>
+    <string name="campaigns">CAMPAIGNS</string>
+    <string name="stories">STORIES</string>
+    <string name="feed">FEED</string>
+    <string name="lorem">Lorem ipsum is placeholder text commonly used in the graphic, print and publishing industries.</string>
+    <string name="_31">31</string>
+    <string name="send_a_gift">SEND A GIFT</string>
+</resources>
