@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Loginscreen</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="don_t_have_an_account_click_here_to_create_one">Don\'t have an account? Click here to create one.</string>
+    <string name="register">register</string>
+    <string name="passwordRepeat">Repeat Password</string>
+    <string name="passwordsDontMatch">Passwords not matching</string>
+</resources>
