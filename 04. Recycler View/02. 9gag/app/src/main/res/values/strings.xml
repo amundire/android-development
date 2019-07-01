@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ninegag</string>
+    <string name="sample_text">sample text</string>
+    <string name="share">SHARE</string>
+    <string name="title_activity_comment">CommentActivity</string>
+    <string name="comment_text">Comment text</string>
+    <string name="sample_date">5/05/2019</string>
+    <string name="sample_time">12:45</string>
+    <string name="sample_user">username</string>
+    <string name="buy">Buy</string>
+</resources>
